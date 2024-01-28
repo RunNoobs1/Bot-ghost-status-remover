@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["The best LOOT.GG predictor, and the only one that really works."];
 
 
 let currentIndex = 0;
